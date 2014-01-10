@@ -13,7 +13,7 @@
   },
   "main": "main.js",
   "dependencies": {
-    "grunt-bower-task": "~0.3.4",
+    "grunt-bower-task": "git@github.com:navinparray/grunt-bower-task.git#master",
     "coffee-script": "~1.6.3",
     "grunt": "~0.4.2"
   },
